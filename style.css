@@ -122,6 +122,9 @@ bottom: 25%;
     font-size: 6vw;
 }
 
+.item .img {
+    min-width: 100%;
+}
 /* End of carousel style */
 
 /* font-family: 'Quattrocento', serif;
